@@ -1,0 +1,51 @@
+{
+  "formato": "reel",
+  "estilo": "calido",
+  "tipografia": "serif",
+  "barras": 0.045,
+  "marca": { "nombre": "Vínculos Conscientes" },
+  "voz": { "modelo": "daniela", "velocidad": 0.93 },
+  "musica": { "tipo": "intimo", "volumen": 0.6 },
+  "subtitulos": true,
+  "escenas": [
+    {
+      "tipo": "titulo",
+      "antetitulo": "Vínculos Conscientes",
+      "texto": "¿Otra vez la *misma* historia, con otra persona?",
+      "narracion": "¿Otra vez la misma historia, con otra persona?"
+    },
+    {
+      "tipo": "frase",
+      "texto": "Muchas veces elegimos lo que nos resulta *familiar*.",
+      "narracion": "Puede que no sea mala suerte. Muchas veces elegimos lo que nos resulta familiar."
+    },
+    {
+      "tipo": "titulo",
+      "antetitulo": "Una pregunta para hoy",
+      "texto": "¿Qué es lo que más te *activa* del otro?",
+      "subtexto": "¿Y qué historia tuya se mueve ahí?",
+      "narracion": "Probá con esta pregunta. ¿Qué es lo que más te activa del otro? ¿Y qué historia tuya se mueve ahí? Eso no borra la responsabilidad del otro. Pero te muestra tu parte.",
+      "transicion": "destello"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "El programa",
+      "items": [
+        "*6 semanas*, online",
+        "Clases grabadas, a tu ritmo",
+        "Cuadernillo y *Mapa Vincular*",
+        "Educación emocional, no psicoterapia"
+      ],
+      "narracion": "Vínculos Conscientes es un programa de seis semanas, online y a tu ritmo, para reconocer desde dónde te vinculás."
+    },
+    {
+      "tipo": "cierre",
+      "texto": "Empezá por mirar *tu parte*.",
+      "boton": "Conocé el programa",
+      "usuario": "robertoroque.com.ar/vinculos",
+      "narracion": "Empezá por mirar tu parte. El enlace está en pantalla.",
+      "subtitulos": false,
+      "transicion": "negro"
+    }
+  ]
+}
