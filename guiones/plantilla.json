@@ -1,0 +1,44 @@
+{
+  "formato": "reel",
+  "estilo": "noche",
+  "tipografia": "serif",
+  "barras": 0.045,
+  "marca": { "nombre": "TU NOMBRE O MARCA", "usuario": "@tu_usuario" },
+  "voz": { "modelo": "daniela", "velocidad": 0.95 },
+  "musica": { "tipo": "ambient", "volumen": 0.6 },
+  "subtitulos": true,
+  "escenas": [
+    {
+      "tipo": "titulo",
+      "antetitulo": "TU NOMBRE O MARCA",
+      "texto": "GANCHO: la frase que frena el *scroll*.",
+      "narracion": "El gancho, dicho en voz alta. Una sola idea."
+    },
+    {
+      "tipo": "plano",
+      "texto": "El *problema* que vive tu cliente",
+      "narracion": "Nombrá el problema con las palabras que usa tu cliente.",
+      "fondo": "aurora"
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Lo que hago",
+      "items": ["Primer *beneficio* concreto", "Segundo *beneficio* concreto", "Tercer *beneficio* concreto"],
+      "narracion": "Contá en tres puntos qué hacés y qué cambia para la persona."
+    },
+    {
+      "tipo": "frase",
+      "texto": "Una frase tuya, o de un cliente real, que resuma el *cambio*.",
+      "autor": "Nombre real (con permiso)",
+      "narracion": "La frase, leída."
+    },
+    {
+      "tipo": "cierre",
+      "texto": "Una sola *acción* clara.",
+      "boton": "Escribime por mensaje",
+      "narracion": "Decí exactamente qué tiene que hacer la persona ahora.",
+      "subtitulos": false,
+      "transicion": "negro"
+    }
+  ]
+}

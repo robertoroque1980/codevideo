@@ -1,0 +1,44 @@
+{
+  "formato": "reel",
+  "estilo": "noche",
+  "tipografia": "serif",
+  "barras": 0.045,
+  "marca": { "nombre": "Tu Marca", "usuario": "@tumarca" },
+  "voz": { "modelo": "daniela", "velocidad": 0.95 },
+  "musica": { "tipo": "ambient", "volumen": 0.6 },
+  "subtitulos": true,
+  "escenas": [
+    {
+      "tipo": "titulo",
+      "antetitulo": "Tu Marca",
+      "texto": "Tu trabajo merece *verse* como lo que es.",
+      "narracion": "Tu trabajo merece verse como lo que es."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Sin estudio.\nSin suscripciones.",
+      "items": ["Escribís el *guion*", "Elegís el *estilo*", "Sale el video *listo*"],
+      "narracion": "Sin estudio. Sin suscripciones. Escribís el guion, elegís el estilo, y sale el video listo para publicar."
+    },
+    {
+      "tipo": "dato",
+      "numero": "100%",
+      "texto": "hecho en tu computadora:\nescenas, voz y música",
+      "narracion": "Todo se genera en tu computadora: las escenas, la voz y la música.",
+      "transicion": "destello"
+    },
+    {
+      "tipo": "frase",
+      "texto": "Mostrá lo que hacés con la misma *calidad* con la que lo hacés.",
+      "narracion": "Mostrá lo que hacés, con la misma calidad con la que lo hacés."
+    },
+    {
+      "tipo": "cierre",
+      "texto": "Contá tu *historia*.",
+      "boton": "Escribime por mensaje",
+      "subtitulos": false,
+      "narracion": "Contá tu historia. Escribime por mensaje.",
+      "transicion": "negro"
+    }
+  ]
+}
